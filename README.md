@@ -85,33 +85,6 @@ Open:
 http://localhost:3001
 ```
 
-## 📷 Screenshots
-
-### Landing Page
-
-(Add Screenshot)
-
-### Dashboard
-
-(Add Screenshot)
-
-### Journal Analysis
-
-(Add Screenshot)
-
-### Insights
-
-(Add Screenshot)
-
-### Settings
-
-(Add Screenshot)
-
-## 🎥 Demo Video
-
-Demo Video:
-
-(Add Link Here)
 
 ## 🚀 Future Improvements
 
